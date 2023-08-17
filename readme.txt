@@ -17,3 +17,5 @@ L'applicazione è dotata di design responsive.
 
 Per aprire l'applicazione è sufficiente aprire
 la cartella madre e aprire il file index con il browser desiderato.
+
+Per provare l'app online: https://fran-lis.github.io/progetto_javaScript_Basics/ .
